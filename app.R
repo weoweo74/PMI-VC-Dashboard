@@ -1,4 +1,5 @@
 ## Add all the packages required 
+install.packages("sp")
 install.packages("shiny")
 install.packages("shinydashboard")
 install.packages("magrittr")
@@ -18,7 +19,7 @@ install.packages("BROOM")
 install.packages("kableExtra")
 install.packages("plotly")
 install.packages("shinyjs")
-
+library(sp)
 library(shiny)
 library(shinydashboard)
 library(magrittr)

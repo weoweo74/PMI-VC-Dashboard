@@ -41,7 +41,7 @@ library(shinyjs)
 
 
 # Load dataset required for the analysis
-data_gbar1<-read.csv("C:\\VC_Indicator\\Sept_10\\data_gbar.csv")
+data_gbar1 <- read.csv("data_gbar.csv")) 
 
 
 
